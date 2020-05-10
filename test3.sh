@@ -1,1 +1,0 @@
-echo "file 3"
